@@ -1,14 +1,10 @@
-
 ![This is an image](https://github.com/meerajParsa/King-Crawler/blob/main/banner.jpg)
-
 
 ## King-Crawler
 Simply scrape any type of data on the page or pages you want with just a few clicks
 
 ## The current version of the program
 version : 1.1
-
-name : small king
 
 ## Description
 This program extracts the data you want from the site you want with just a few clicks and provides it to you. It doesn't matter what the technology of the target site is, the program searches for the data you want on the whole page and provides them to you. You can get output from this program in txt format and save it in your system
@@ -36,3 +32,9 @@ python index.py
 | 2.4     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: |  |
 | 2.6     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: |  |
 | 3.3     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+
+
+## Cooperation in the project
+Please fork the project and share it with your programmer friends so that the program reaches its final version as soon as possible
+
+
