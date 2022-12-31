@@ -27,10 +27,10 @@ python index.py
 | version     | link | address of the image | image file(download) | address of the media(sound-video) | media file(sound-video)(download) | text | tag content | Internal pages |
 | ---     | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1.1     | :heavy_check_mark: | :heavy_check_mark: |  |  |  |  |  |  |
-| 1.5     | :heavy_check_mark: | :heavy_check_mark: |  |  |  | :heavy_check_mark::heavy_check_mark: |  |  |
+| 1.5     | :heavy_check_mark: | :heavy_check_mark: |  |  |  | :heavy_check_mark: |  |  |
 | 2.0     | :heavy_check_mark: | :heavy_check_mark: |  |  |  | :heavy_check_mark: | :heavy_check_mark: |  |
 | 2.4     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: |  |
-| 2.6     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: | :heavy_check_mark: |  |
+| 2.6     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: |  |
 | 3.3     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 
