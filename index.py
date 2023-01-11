@@ -25,6 +25,5 @@ init = MPScraper(url,target)
 match target:
     case "Links":
         MPScraper.Links(init)
-        pass
     case "Images":
         pass
